@@ -176,6 +176,7 @@ body{
 .gallery__img {
     width: 100%;
     display: block;
+    border-radius: 4px;
     object-fit: contain;
 }
 .gallery__hover{
